@@ -1,6 +1,5 @@
 # Credit-card-fraud-detection-project
 
-Language: R or Python
-Data set: Data on the transaction of credit cards is used here as a data set.
-Credit card fraud is more common than you think, and lately, they’ve been on the rise. We’re on the path to cross a billion credit card users by the end of 2022. But thanks to the innovations in technologies like artificial intelligence, machine learning and data science, credit card companies have been able to successfully identify and intercept these frauds with sufficient accuracy.
-Simply put, the idea behind this is to analyze the customer’s usual spending behavior, including mapping the location of those spendings to identify the fraudulent transactions from the non-fraudulent ones. For this project, you can use either R or Python with the customer’s transaction history as the data set and ingest it into decision trees, artificial neural networks, and logistic regression. As you feed more data to your system, you should be able to increase its overall accuracy.
+Credit card fraud is a pervasive issue, and its incidence has been escalating in recent years. With projections indicating that we may surpass a billion credit card users by the end of 2022, the need for robust fraud detection mechanisms is more critical than ever. Fortunately, advancements in technologies such as artificial intelligence, machine learning, and data science have empowered credit card companies to detect and prevent fraudulent activities with impressive accuracy.
+
+The core idea behind these advanced detection systems is to analyze the usual spending behaviors of customers, including the geographical locations of their transactions, to distinguish between legitimate and fraudulent activities. By leveraging sophisticated algorithms and models, these systems can learn to identify anomalies that signify potential fraud.
